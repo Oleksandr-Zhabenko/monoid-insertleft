@@ -2,9 +2,9 @@
 -- see http://haskell.org/cabal/users-guide/
 
 name:                monoid-insertleft
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Some extension to the Foldable and Monoid classes.
-description:         Introduces a new class InsertLeft — the class of types of values that can be inserted from the left to the Foldable structure that is a data that is also the Monoid instance. Also contains some functions to find out both minimum and maximum elements of the finite Foldable structures. Is a fork of the <https://hackage.haskell.org/package/subG>.
+description:         Introduces a new class InsertLeft — the class of types of values that can be inserted from the left to the Foldable structure that is a data that is also the Monoid instance. Is a fork of the <https://hackage.haskell.org/package/subG>.
 homepage:            https://hackage.haskell.org/package/monoid-insertleft
 bug-reports:         https://github.com/Oleksandr-Zhabenko/monoid-insertleft/issues
 license:             MIT

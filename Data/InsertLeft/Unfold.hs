@@ -1,4 +1,4 @@
-/- |
+-- |
 -- Module      :  Data.InsertLeft.Unfold
 -- Copyright   :  (c) OleksandrZhabenko 2021-2024
 -- License     :  MIT
